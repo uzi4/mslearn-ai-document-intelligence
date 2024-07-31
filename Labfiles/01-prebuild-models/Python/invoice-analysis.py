@@ -2,8 +2,8 @@ from azure.core.credentials import AzureKeyCredential
 from azure.ai.formrecognizer import DocumentAnalysisClient
 
 # Store connection information
-endpoint = "https://doc-intel-read2.cognitiveservices.azure.com/"
-key = "36ec0703357e4866a1bd04978304e806"
+endpoint = ""
+key = ""
 
 fileUri = "https://github.com/uzi4/mslearn-ai-document-intelligence/blob/main/Labfiles/01-prebuild-models/sample-invoice/sample-invoice.pdf?raw=true"
 fileLocale = "en-US"
