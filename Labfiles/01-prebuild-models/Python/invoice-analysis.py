@@ -50,6 +50,7 @@ print("\nAnalysis complete.\n")
 
 # List all fields
 keys = list(receipt.fields.keys())
+print(keys)
 
 
 # List all fields with values
